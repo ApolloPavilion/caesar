@@ -1,0 +1,13 @@
+{
+  "tests": [
+    {
+      "name": "Check run",
+      "run": "check50 -d tests",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
