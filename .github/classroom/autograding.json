@@ -8,6 +8,15 @@
       "comparison": "included",
       "timeout": 10,
       "points": 100
-    }
+    },
+    {
+      "name": "Check run 2",
+      "run": "check50 -d tests",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    },
   ]
 }
